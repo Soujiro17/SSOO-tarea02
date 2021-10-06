@@ -1,6 +1,6 @@
 # Autor
 
-> Vicente Reyes Cáceres <vicente.reyes@alumnos.uv.cl>
+> Vicente Reyes Cáceres (<vicente.reyes@alumnos.uv.cl>)
 
 # Objetivo
 
